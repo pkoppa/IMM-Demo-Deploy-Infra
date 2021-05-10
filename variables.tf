@@ -5,7 +5,7 @@ variable "org_name" {
 variable "secret_key" {
 }
 
-varibale "api_key" {
+variable "api_key" {
 }
 
 # MAC Pool
