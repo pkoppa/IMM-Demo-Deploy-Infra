@@ -2,6 +2,11 @@ variable "org_name" {
   default = "default"
 }
 
+variable "secret_key" {
+}
+
+varibale "api_key" {
+}
 
 # MAC Pool
 variable "name_of_mac_pool" {
